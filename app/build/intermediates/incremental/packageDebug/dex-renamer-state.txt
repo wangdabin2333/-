@@ -1,0 +1,4 @@
+#Fri May 08 19:17:08 CST 2020
+base.0=F\:\\Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=F\:\\Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

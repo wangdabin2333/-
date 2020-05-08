@@ -1,0 +1,550 @@
+[
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\motion_phantom_shaddow.gif",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\motion_phantom_shaddow.gif"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\motion_time_repeat.gif",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\motion_time_repeat.gif"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_edit_add_selector.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\ic_edit_add_selector.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\motion_dark_dream.gif",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\motion_dark_dream.gif"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mix_record_seekbar_thum.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\mix_record_seekbar_thum.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_speed_selector.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\record_speed_selector.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\motion_lightning.gif",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\motion_lightning.gif"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_way_selector_txt_color.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\record_way_selector_txt_color.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_radio_bg.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\selector_radio_bg.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_motion_dark_press.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\shape_motion_dark_press.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_progress.xml",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable\\default_progress.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_middle_pressed.9.png",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\actionsheet_middle_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\motion_mirror.gif",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\motion_mirror.gif"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_single_selector.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\actionsheet_single_selector.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_input_background.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\shape_input_background.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_motion_ghost_shadow_press.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\shape_motion_ghost_shadow_press.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_aspect34.xml",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable\\selector_aspect34.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_music_selector.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\ic_music_selector.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_bottom_selector.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\actionsheet_bottom_selector.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_motion_illusion_press.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\shape_motion_illusion_press.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\motion_time_normal.gif",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\motion_time_normal.gif"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_edit_effect_confirm_selector.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\ic_edit_effect_confirm_selector.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_time_bg.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\selector_time_bg.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_music_selector.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\record_music_selector.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_single_pressed.9.png",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\actionsheet_single_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_choose_next_selector.xml",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable\\ic_choose_next_selector.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_switch_camera.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\selector_switch_camera.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_music_change_selector.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\ic_music_change_selector.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_motion_phantom_shadow_press.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\shape_motion_phantom_shadow_press.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_pause_selector.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\ic_pause_selector.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_time_bg_selected.xml",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable\\shape_time_bg_selected.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_bg_gray.xml",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable\\rect_bg_gray.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_motion_ghost_press.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\shape_motion_ghost_press.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\motion_illusion.gif",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\motion_illusion.gif"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mix_record_player_seekbar_pic.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\mix_record_player_seekbar_pic.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_motion_lightning_press.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\shape_motion_lightning_press.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\motion_time_reverse.gif",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\motion_time_reverse.gif"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_motion_selector.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\ic_motion_selector.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_paster_selector.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\ic_paster_selector.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\motion_ghost.gif",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\motion_ghost.gif"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_middle_normal.9.png",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\actionsheet_middle_normal.9.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editor_undo_selector.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\editor_undo_selector.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_round_bg.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\record_round_bg.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_login.xml",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable\\btn_login.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_single_normal.9.png",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\actionsheet_single_normal.9.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_progress_drawable.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\seekbar_progress_drawable.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mix_record_seekbar.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\mix_record_seekbar.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_soundeffect.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\record_soundeffect.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.4.0\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_color1.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\beauty\\unspecified\\res\\drawable\\text_color1.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.4.0\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_motion_win_shadow_press.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\shape_motion_win_shadow_press.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_filter_selector.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\ic_filter_selector.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_motion_split_press.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\shape_motion_split_press.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_bg_green.xml",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable\\rect_bg_green.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_button_2.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\round_button_2.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_button.xml",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable\\round_button.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\motion_split_screen.gif",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\motion_split_screen.gif"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_record_back.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\selector_record_back.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_video_top_mask.xml",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable\\shape_video_top_mask.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_picker_close.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\ic_picker_close.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_activity_next.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable\\setting_activity_next.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_word_selector.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\ic_word_selector.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_torch_close.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\selector_torch_close.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bg.9.png",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\progress_bg.9.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_close_selector.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\ic_close_selector.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_top_normal.9.png",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\actionsheet_top_normal.9.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_delete_last_part.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\selector_delete_last_part.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_picker_bg.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\shape_picker_bg.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_music_del_selector.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\ic_music_del_selector.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play_selector.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\ic_play_selector.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.4.0\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_time_bg_normal.xml",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable\\shape_time_bg_normal.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_torch_open.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\selector_torch_open.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_middle_selector.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\actionsheet_middle_selector.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_motion_light_wave_press.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\shape_motion_light_wave_press.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_list_divider.xml",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable\\shape_list_divider.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\swipe_menu_divider_recycler.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\swipe_menu_divider_recycler.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\motion_soul_out.gif",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\motion_soul_out.gif"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\motion_win_shaddow.gif",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\motion_win_shaddow.gif"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_beauty_selector.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\record_beauty_selector.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_bottom_pressed.9.png",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\actionsheet_bottom_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawable_ugc_red_next.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\drawable_ugc_red_next.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_top_pressed.9.png",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\actionsheet_top_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_video_bottom_mask.xml",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable\\shape_video_bottom_mask.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_motion_spirit_press.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\shape_motion_spirit_press.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_top_selector.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\actionsheet_top_selector.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\motion_ghost_shaddow.gif",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\motion_ghost_shaddow.gif"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_home_select.xml",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable\\tab_home_select.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_motion_mirror_press.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\shape_motion_mirror_press.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\motion_rock_light.gif",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\motion_rock_light.gif"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_button_3.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\round_button_3.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\motion_time_slow.gif",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\motion_time_slow.gif"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_bottom_normal.9.png",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\actionsheet_bottom_normal.9.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_seek_bar_cursor.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\icon_seek_bar_cursor.xml"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_time_selector.xml",
+        "source": "F:\\Demo\\app\\build\\intermediates\\exploded-aar\\Demo\\ugckit\\unspecified\\res\\drawable\\ic_time_selector.xml"
+    }
+]

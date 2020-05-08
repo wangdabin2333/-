@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :LiteAVSDK_Professional:@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ugckit/build/intermediates/exploded-aar/LiteAVSDK_Professional/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/ugckit/build/intermediates/exploded-aar/LiteAVSDK_Professional/res" />
+      <root url="jar://$PROJECT_DIR$/ugckit/build/intermediates/exploded-aar/LiteAVSDK_Professional/jars/libs/LiteAVSDK_Professional-0.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

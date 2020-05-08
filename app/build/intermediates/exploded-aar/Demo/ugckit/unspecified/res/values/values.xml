@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionsheet_gray">#8F8F8F</color>
+    <color name="background">#f3f3f3</color>
+    <color name="background_gray1">#EBEBEB</color>
+    <color name="background_gray2">#E6E6E6</color>
+    <color name="background_gray3">#D4D4D4</color>
+    <color name="background_gray4">#EFEFF4</color>
+    <color name="black">#000000</color>
+    <color name="btn_blue">#0F73CB</color>
+    <color name="btn_blue_hover">#1E86E4</color>
+    <color name="btn_live">#5F6164</color>
+    <color name="btn_live_press">#2F3134</color>
+    <color name="btn_red">#D63F41</color>
+    <color name="btn_red_hover">#E8484B</color>
+    <color name="btn_text">#FFFFFF</color>
+    <color name="btn_text_hover">#CCFFFFFF</color>
+    <color name="bubble_panel_background_color">#0d0d0d</color>
+    <color name="c1">#0ACCAC</color>
+    <color name="c2">#222b48</color>
+    <color name="c3">#F3F3F3</color>
+    <color name="c4">#F5F5F5</color>
+    <color name="c5">#D8D8D8</color>
+    <color name="c6">#FFFFFF</color>
+    <color name="c7">#000000</color>
+    <color name="c8">#FFFFFF</color>
+    <color name="c9">#777777</color>
+    <color name="camera_video_grid_bg_color">#F3F4F6</color>
+    <color name="colorAccent">#0accac</color>
+    <color name="colorAccentTransparent30">#B2FF584C</color>
+    <color name="colorActivityBackground">#F3F3F3</color>
+    <color name="colorBackground">#F5F5F5</color>
+    <color name="colorBlue">#440accac</color>
+    <color name="colorDanmuMsg">#30e7d5</color>
+    <color name="colorDarkTransparentGray">#a4000000</color>
+    <color name="colorGray1">#F0F0F0</color>
+    <color name="colorGray2">#DCDCDC</color>
+    <color name="colorGray3">#C8C8C8</color>
+    <color name="colorGray4">#787878</color>
+    <color name="colorGray5">#505050</color>
+    <color name="colorGray6">#141414</color>
+    <color name="colorGray7">#D8D8D8</color>
+    <color name="colorGray8">#181818</color>
+    <color name="colorGreen">#0accac</color>
+    <color name="colorLabelRed">#FF447D</color>
+    <color name="colorLabelRedActive">#FF89AB</color>
+    <color name="colorLabelYellow">#FFAE20</color>
+    <color name="colorLabelYellowActive">#FFCD35</color>
+    <color name="colorLabelYellowMask">#4DFFAE20</color>
+    <color name="colorLightGray">#E6E6E6</color>
+    <color name="colorLightTransparentGray">#22ffffff</color>
+    <color name="colorMask">#66000000</color>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#21a3f5</color>
+    <color name="colorRed">#FF3333</color>
+    <color name="colorRed2">#FF584C</color>
+    <color name="colorSendName">#9966cc</color>
+    <color name="colorSendName1">#F12B5B</color>
+    <color name="colorSendName2">#2B7DE2</color>
+    <color name="colorSendName3">#006599</color>
+    <color name="colorSendName4">#FF7906</color>
+    <color name="colorSendName5">#1FBCB6</color>
+    <color name="colorSendName6">#FFAE1F</color>
+    <color name="colorSendName7">#FF437D</color>
+    <color name="colorTextBlack">#000000</color>
+    <color name="colorTextG1">#CCCCCC</color>
+    <color name="colorTextG2">#999999</color>
+    <color name="colorTextG3">#666666</color>
+    <color name="colorTextG4">#333333</color>
+    <color name="colorTextWhite">#FFFFFF</color>
+    <color name="colorTheme">#80407A</color>
+    <color name="colorThemeActive">#A15C9A</color>
+    <color name="colorTransparentBlack">#44777777</color>
+    <color name="colorTransparentGray">#88ffffff</color>
+    <color name="colorVeryDarkTransparentGray">#d4000000</color>
+    <color name="color_bottom_bar_background">#FD5D40</color>
+    <color name="color_input_dialog_background">#b4ffffff</color>
+    <color name="cut_line_color">#FFFF584C</color>
+    <color name="dark_dream_press">#B2006EFF</color>
+    <color name="dark_illusion">#449FF3</color>
+    <color name="dialog_btn_pressed_color">#efefef</color>
+    <color name="edit_blue">#145CB9</color>
+    <color name="edit_green">#21AE58</color>
+    <color name="edit_red">#f00</color>
+    <color name="edit_yellow">#FECD52</color>
+    <color name="editer_bottom">#1F2531</color>
+    <color name="follow_shot_bg_normal">#ec766a</color>
+    <color name="follow_shot_bg_selected">#ec6455</color>
+    <color name="ghost_color">#FF6A3FC6</color>
+    <color name="ghost_color_press">#CC6A3FC6</color>
+    <color name="ghost_shaddow_color">#FF47A9B2</color>
+    <color name="ghost_shaddow_color_press">#CC47A9B2</color>
+    <color name="half_black">#7F000000</color>
+    <color name="half_white">#7FFFFFFF</color>
+    <color name="illusion_color">#FF7F554C</color>
+    <color name="illusion_color_press">#CC7F554C</color>
+    <color name="input_text_color">#00f5ac</color>
+    <color name="light_wave">#1FBCB6</color>
+    <color name="lightning_color">#FFC73AD1</color>
+    <color name="lightning_color_press">#CCC73AD1</color>
+    <color name="line">#DDDDDD</color>
+    <color name="line_btn">#BBBBBB</color>
+    <color name="mirror_color">#FFDB347F</color>
+    <color name="mirror_color_press">#CCDB347F</color>
+    <color name="panel_black">#25272A</color>
+    <color name="paster_activity_background_color">#0d0d0d</color>
+    <color name="phantom_shaddow_color">#FF4368BC</color>
+    <color name="phantom_shaddow_color_press">#CC4368BC</color>
+    <color name="pink">#f90051</color>
+    <color name="primaryColor">#b0bec5</color>
+    <color name="primaryDarkColor">#808e95</color>
+    <color name="primaryLightColor">#e2f1f8</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="recordButtonClickShotBackgroundColor">#BEBEBE</color>
+    <color name="recordButtonClickShotInnerColor">#FF3030</color>
+    <color name="recordButtonTakePhotoBackgroundColor">#a1ffffff</color>
+    <color name="recordButtonTouchShotBackgroundColor">#a1FF3030</color>
+    <color name="recordButtonTouchShotInnerColor">#FF3030</color>
+    <color name="record_progress">#ff584c</color>
+    <color name="record_progress_bg">#66000000</color>
+    <color name="record_progress_pending">#a8002d</color>
+    <color name="record_settings_tip">#999999</color>
+    <color name="record_speed_text_normal">#ffffff</color>
+    <color name="record_speed_text_select">#00f5ac</color>
+    <color name="rock_light_press">#B2655CE6</color>
+    <color name="screen_split">#EC8435</color>
+    <color name="screen_split_press">#B2FFBB00</color>
+    <color name="soul_out_color_press">#B21FC0CC</color>
+    <color name="spirit_out_color">#EC5F9B</color>
+    <color name="tencent_tls_ui_background">#EEEEEE</color>
+    <color name="tencent_tls_ui_black">#000000</color>
+    <color name="tencent_tls_ui_countryCodeColor">#009900</color>
+    <color name="tencent_tls_ui_deepgray">#777777</color>
+    <color name="tencent_tls_ui_defaultButtonColor">#0099FF</color>
+    <color name="tencent_tls_ui_gray">#444444</color>
+    <color name="tencent_tls_ui_pressedButtonColor">#0066CC</color>
+    <color name="tencent_tls_ui_shadowgray">#CCCCCC</color>
+    <color name="tencent_tls_ui_titleBackground">#FFFFFF</color>
+    <color name="tencent_tls_ui_titleFontColor">#000000</color>
+    <color name="tencent_tls_ui_transparent">#9000</color>
+    <color name="tencent_tls_ui_white">#FFFFFF</color>
+    <color name="text_blue1">#1173CB</color>
+    <color name="text_blue2">#1173CA</color>
+    <color name="text_gray1">#777777</color>
+    <color name="text_gray2">#767676</color>
+    <color name="time_bg_normal">#0accac</color>
+    <color name="time_bg_selected">#AA0ACCAC</color>
+    <color name="transparent">#00000000</color>
+    <color name="umeng_background">#D4E0E5</color>
+    <color name="umeng_black">#000000</color>
+    <color name="umeng_blue">#0086DC</color>
+    <color name="umeng_divide">#C3C6C9</color>
+    <color name="umeng_text_color">#575A5C</color>
+    <color name="umeng_white">#ffffff</color>
+    <color name="white">#FFFFFF</color>
+    <color name="win_shaddow_color">#FF6EA745</color>
+    <color name="win_shaddow_color_press">#CC6EA745</color>
+    <declare-styleable name="BasicStyle"><attr format="reference" name="titleColor"/><attr format="dimension" name="titleTextSize"/><attr format="reference" name="backIcon"/><attr format="reference" name="nextIcon"/><attr format="reference" name="progressColor"/><attr format="reference" name="sliderColor"/><attr format="reference" name="ugckitColorPrimary"/></declare-styleable>
+    <declare-styleable name="EditerStyle"><attr format="color" name="editerCutViewColor"/><attr format="reference" name="editerCutSliderLeftIcon"/><attr format="reference" name="editerCutSliderRightIcon"/><attr format="reference" name="editerRotateIcon"/><attr format="reference" name="editerPlayIcon"/><attr format="reference" name="editerPauseIcon"/><attr format="reference" name="editerCurrentProgressIcon"/><attr format="reference" name="editerMenuBgmIcon"/><attr format="reference" name="editerMenuMotionIcon"/><attr format="reference" name="editerMenuSpeedIcon"/><attr format="reference" name="editerMenuFilterIcon"/><attr format="reference" name="editerMenuPasterIcon"/><attr format="reference" name="editerMenuSubtitleIcon"/><attr format="reference" name="editerMotionUndoIcon"/><attr format="reference" name="editerMotionSoulOutIcon"/><attr format="color" name="editerMotionSoulOutCoverColor"/><attr format="reference" name="editerMotionSplitScreenIcon"/><attr format="color" name="editerMotionSplitScreenCoverColor"/><attr format="reference" name="editerMotionDarkDreamIcon"/><attr format="color" name="editerMotionDarkDreamCoverColor"/><attr format="reference" name="editerMotionGhostIcon"/><attr format="color" name="editerMotionGhostCoverColor"/><attr format="reference" name="editerMotionGhostShadowIcon"/><attr format="color" name="editerMotionGhostShadowCoverColor"/><attr format="reference" name="editerMotionIllusionIcon"/><attr format="color" name="editerMotionIllusionCoverColor"/><attr format="reference" name="editerMotionLightningIcon"/><attr format="color" name="editerMotionLightningCoverColor"/><attr format="reference" name="editerMotionMirrorIcon"/><attr format="color" name="editerMotionMirrorCoverColor"/><attr format="reference" name="editerMotionPhantomShadowIcon"/><attr format="color" name="editerMotionPhantomShadowCoverColor"/><attr format="reference" name="editerMotionRockLightIcon"/><attr format="color" name="editerMotionRockLightCoverColor"/><attr format="reference" name="editerMotionWinShadowIcon"/><attr format="color" name="editerMotionWinShadowCoverColor"/><attr format="reference" name="editerTimeEffectNormalIcon"/><attr format="reference" name="editerTimeEffectSlowMotionIcon"/><attr format="reference" name="editerTimeEffectRepeatIcon"/><attr format="reference" name="editerTimeEffectReverseIcon"/><attr format="reference" name="editerFilterOriginIcon"/><attr format="reference" name="editerFilterNormalIcon"/><attr format="reference" name="editerFilterYinghongIcon"/><attr format="reference" name="editerFilterYunchangIcon"/><attr format="reference" name="editerFilterChunzhenIcon"/><attr format="reference" name="editerFilterBailanIcon"/><attr format="reference" name="editerFilterYuanqiIcon"/><attr format="reference" name="editerFilterChaotuoIcon"/><attr format="reference" name="editerFilterXiangfenIcon"/><attr format="reference" name="editerFilterLangmanIcon"/><attr format="reference" name="editerFilterQingxinIcon"/><attr format="reference" name="editerFilterWeimeiIcon"/><attr format="reference" name="editerFilterFennenIcon"/><attr format="reference" name="editerFilterHuaijiuIcon"/><attr format="reference" name="editerFilterLandiaoIcon"/><attr format="reference" name="editerFilterQingliangIcon"/><attr format="reference" name="editerFilterRixiIcon"/><attr format="reference" name="editerPasterDelIcon"/><attr format="reference" name="editerSubtitleDelIcon"/><attr format="reference" name="editerConfirmIcon"/></declare-styleable>
+    <declare-styleable name="FloatLayerView"><attr format="reference" name="src"/><attr format="boolean" name="editable"/><attr format="color" name="frameColor"/><attr format="dimension" name="frameWidth"/><attr format="dimension" name="framePadding"/><attr format="float" name="degree"/><attr format="float" name="scale"/><attr format="reference" name="controlDrawable"/><attr format="reference" name="editDrawable"/><attr format="reference" name="deleteDrawable"/><attr name="controlLocation">                     
+            <enum name="left_top" value="0"/>
+            <enum name="right_top" value="1"/>
+            <enum name="right_bottom" value="2"/>
+            <enum name="left_bottom" value="3"/>
+        </attr><attr name="editLocation">                     
+            <enum name="left_top" value="0"/>
+            <enum name="right_top" value="1"/>
+            <enum name="right_bottom" value="2"/>
+            <enum name="left_bottom" value="3"/>
+        </attr><attr name="deleteLocation">                     
+            <enum name="left_top" value="0"/>
+            <enum name="right_top" value="1"/>
+            <enum name="right_bottom" value="2"/>
+            <enum name="left_bottom" value="3"/>
+        </attr></declare-styleable>
+    <declare-styleable name="FollowRecordStyle"><attr format="reference" name="countDownIcon"/></declare-styleable>
+    <declare-styleable name="MixRecord"><attr format="reference" name="layout_id"/></declare-styleable>
+    <declare-styleable name="NumberProgressBar"><attr format="integer" name="progress_current"/><attr format="integer" name="progress_max"/><attr format="color" name="progress_unreached_color"/><attr format="color" name="progress_reached_color"/><attr format="dimension" name="progress_reached_bar_height"/><attr format="dimension" name="progress_unreached_bar_height"/><attr format="dimension" name="progress_text_size"/><attr format="color" name="progress_text_color"/><attr format="dimension" name="progress_text_offset"/><attr format="enum" name="progress_text_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+        </attr></declare-styleable>
+    <declare-styleable name="PickerStyle"><attr format="reference" name="pickerDelIcon"/><attr format="reference" name="pickerNextIcon"/></declare-styleable>
+    <declare-styleable name="PictureTransitionStyle"><attr format="reference" name="transitionLeftRightIcon"/><attr format="reference" name="transitionUpDownIcon"/><attr format="reference" name="transitionEnlargeIcon"/><attr format="reference" name="transitionNarrowIcon"/><attr format="reference" name="transitionRotateIcon"/><attr format="reference" name="transitionFadeInOutIcon"/></declare-styleable>
+    <declare-styleable name="RangeSeekBar"><attr format="reference" name="rsb_pointerBackground"/><attr format="color" name="rsb_backgroundColor"/><attr format="color" name="rsb_progressColor"/><attr format="integer" name="rsb_range"/></declare-styleable>
+    <declare-styleable name="RangeSlider"><attr format="dimension" name="lineHeight"/><attr format="dimension" name="thumbWidth"/><attr format="color" name="lineColor"/><attr format="color" name="maskColor"/><attr format="integer" name="tickCount"/><attr format="integer" name="leftThumbIndex"/><attr format="integer" name="rightThumbIndex"/><attr format="reference" name="leftThumbDrawable"/><attr format="reference" name="rightThumbDrawable"/><attr format="reference" name="midThumbDrawable"/></declare-styleable>
+    <declare-styleable name="RecordStyle"><attr format="reference" name="recordMusicIcon"/><attr format="reference" name="recordAspect11Icon"/><attr format="reference" name="recordAspect34Icon"/><attr format="reference" name="recordAspect43Icon"/><attr format="reference" name="recordAspect169Icon"/><attr format="reference" name="recordAspect916Icon"/><attr format="reference" name="recordBeautyIcon"/><attr format="reference" name="recordAudioEffectIcon"/><attr format="reference" name="recordDeleteIcon"/><attr format="reference" name="recordTorchOnIcon"/><attr format="reference" name="recordTorchOffIcon"/><attr format="reference" name="recordTorchDisableIcon"/><attr format="reference" name="recordSpeedSlowestBackgroud"/><attr format="reference" name="recordSpeedSlowBackground"/><attr format="reference" name="recordSpeedNormalBackground"/><attr format="reference" name="recordSpeedFastBackground"/><attr format="reference" name="recordSpeedFastestBackground"/><attr format="reference" name="recordSwitchCameraIcon"/><attr format="reference" name="recordButtonPhotoModeOutterBackground"/><attr format="reference" name="recordButtonPhotoModeInnerBackground"/><attr format="reference" name="recordButtonTapModeOutterBackground"/><attr format="reference" name="recordButtonTapModeInnerBackground"/><attr format="reference" name="recordButtonPressModeOutterBackground"/><attr format="reference" name="recordButtonPressModeInnerBackground"/><attr format="reference" name="recordTimelineColor"/><attr format="reference" name="recordTimelineSelectionColor"/><attr format="reference" name="recordTimelineSeperatorColor"/><attr format="reference" name="beautyPanelColorPrimary"/><attr format="reference" name="beautyPanelSmoothIcon"/><attr format="reference" name="beautyPanelNaturalIcon"/><attr format="reference" name="beautyPanelPituIcon"/><attr format="reference" name="beautyPanelWhiteIcon"/><attr format="reference" name="beautyPanelRuddyIcon"/><attr format="reference" name="beautyPanelBigeyeIcon"/><attr format="reference" name="beautyPanelFaceslimIcon"/><attr format="reference" name="beautyPanelFacevIcon"/><attr format="reference" name="beautyPanelChinIcon"/><attr format="reference" name="beautyPanelFaceshortIcon"/><attr format="reference" name="beautyPanelNoseslimIcon"/><attr format="reference" name="beautyPanelEyeLightenIcon"/><attr format="reference" name="beautyPanelToothWhiteIcon"/><attr format="reference" name="beautyPanelPounchRemoveIcon"/><attr format="reference" name="beautyPanelSmileLinesRemoveIcon"/><attr format="reference" name="beautyPanelWrinkleIcon"/><attr format="reference" name="beautyPanelForeheadIcon"/><attr format="reference" name="beautyPanelEyeDistanceIcon"/><attr format="reference" name="beautyPanelEyeAngleIcon"/><attr format="reference" name="beautyPanelMouthShapeIcon"/><attr format="reference" name="beautyPanelNoseWingIcon"/><attr format="reference" name="beautyPanelNosePositionIcon"/><attr format="reference" name="beautyPanelMouseWidthIcon"/><attr format="reference" name="beautyPanelFaceShapeIcon"/><attr format="reference" name="audioEffectDisabled"/><attr format="reference" name="audioEffectVoicechangeBadboy"/><attr format="reference" name="audioEffectVoicechangeLoli"/><attr format="reference" name="audioEffectVoicechangeUncle"/><attr format="reference" name="audioEffectVoicechangeHeavymechanical"/><attr format="reference" name="audioEffectVoicechangeForeigner"/><attr format="reference" name="audioEffectVoicechangeBeast"/><attr format="reference" name="audioEffectVoicechangeFatty"/><attr format="reference" name="audioEffectVoicechangeElectric"/><attr format="reference" name="audioEffectVoicechangeEthereal"/><attr format="reference" name="audioEffectReverbKTV"/><attr format="reference" name="audioEffectReverbRoom"/><attr format="reference" name="audioEffectReverbHall"/><attr format="reference" name="audioEffectReverbLow"/><attr format="reference" name="audioEffectReverbSonorous"/><attr format="reference" name="audioEffectReverbMagnetic"/></declare-styleable>
+    <declare-styleable name="RoundProgressBar"><attr format="color" name="bgColor"/><attr format="color" name="roundColor"/><attr format="color" name="roundProgressColor"/><attr format="dimension" name="roundWidth"/><attr format="color" name="textColorP"/><attr format="dimension" name="textSize"/><attr format="integer" name="max"/><attr format="boolean" name="textIsDisplayable"/><attr name="style">
+            <enum name="STROKE" value="0"/>
+            <enum name="FILL" value="1"/>
+        </attr></declare-styleable>
+    <declare-styleable name="SampleProgressButton"><attr format="color" name="sampleProgressButtonBackgroundColor"/><attr format="color" name="sampleProgressButtonForegroundColor"/><attr format="color" name="sampleProgressButtonNormalColor"/><attr format="color" name="sampleProgressButtonTextcolor"/><attr format="integer" name="sampleProgressButtonMax"/><attr format="integer" name="sampleProgressButtonProgress"/><attr format="dimension" name="sampleProgressButtonTextSize"/><attr format="string" name="sampleProgressButtonText"/></declare-styleable>
+    <declare-styleable name="SwipeMenuLayout"><attr format="reference" name="leftViewId"/><attr format="reference" name="rightViewId"/><attr format="reference" name="contentViewId"/></declare-styleable>
+    <declare-styleable name="TCActivityTitle"><attr format="string" name="titleText"/><attr format="boolean" name="canBack"/><attr format="string" name="backText"/><attr format="string" name="moreText"/></declare-styleable>
+    <declare-styleable name="TCReversalSeekBar"><attr format="reference" name="rs_pointerBackground"/><attr format="color" name="rs_backgroundColor"/><attr format="color" name="rs_progressColor"/><attr format="float" name="rs_progress"/></declare-styleable>
+    <declare-styleable name="TCTouchSeekBar"><attr format="reference" name="tsb_dotDefault"/><attr format="reference" name="tsb_dotChecked"/></declare-styleable>
+    <declare-styleable name="absProgressBar"><attr format="integer" name="progress"/><attr format="reference|color" name="backgroundColor"/><attr format="reference|color" name="textColor"/></declare-styleable>
+    <declare-styleable name="floatTextProgressBar"><attr format="reference|color" name="triangleColor"/><attr format="reference|color" name="rectColor"/><attr format="reference|color" name="fillColor"/></declare-styleable>
+    <declare-styleable name="progressBar"><attr format="reference|color" name="startFillColor"/><attr format="reference|color" name="middleFillColor"/><attr format="reference|color" name="endFillColor"/><attr format="reference|color" name="arrowPointColor"/><attr format="dimension|reference" name="arrowPointRadius"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="audio_actionsheet_height">51dp</dimen>
+    <dimen name="audio_friend_border_margin_top">3.25dp</dimen>
+    <dimen name="audio_friend_imgH">60dp</dimen>
+    <dimen name="audio_friend_imgW">60dp</dimen>
+    <dimen name="audio_friend_img_border">66.5dp</dimen>
+    <dimen name="audio_friend_infoH">191dp</dimen>
+    <dimen name="audio_icon_top">25dp</dimen>
+    <dimen name="audio_tip_margin">83dp</dimen>
+    <dimen name="gaudio_bigname_maxwidth">156dp</dimen>
+    <dimen name="gaudio_dialog_btn_margin_top">47dp</dimen>
+    <dimen name="gaudio_dialog_height">160dp</dimen>
+    <dimen name="gaudio_dialog_height_gprs">182dp</dimen>
+    <dimen name="gaudio_dialog_textsize">4sp</dimen>
+    <dimen name="gaudio_dialog_width">270dp</dimen>
+    <dimen name="gaudio_grid_margin">3dp</dimen>
+    <dimen name="gaudio_list_name_maxwidth">120dp</dimen>
+    <dimen name="gaudio_lock_maxwidth">280dp</dimen>
+    <dimen name="gaudio_lock_textsize">5sp</dimen>
+    <dimen name="gaudio_name_maxwidth">162dp</dimen>
+    <dimen name="gaudio_name_maxwidth_dialog">130dp</dimen>
+    <dimen name="gaudio_name_maxwidth_inviter">70dp</dimen>
+    <dimen name="gaudio_name_maxwidth_title">60dp</dimen>
+    <dimen name="gaudio_padding">5dp</dimen>
+    <dimen name="gaudio_request_video_text_size">15dp</dimen>
+    <dimen name="gaudio_spacing">15dp</dimen>
+    <dimen name="gaudio_spacing_320">10dp</dimen>
+    <dimen name="gaudio_speaking_margin">1dp</dimen>
+    <dimen name="gaudio_speaking_width">56dp</dimen>
+    <dimen name="gaudio_tips_name_maxwidth">46dp</dimen>
+    <dimen name="h1">9sp</dimen>
+    <dimen name="h10">18sp</dimen>
+    <dimen name="h11">19sp</dimen>
+    <dimen name="h12">20sp</dimen>
+    <dimen name="h2">10sp</dimen>
+    <dimen name="h3">11sp</dimen>
+    <dimen name="h4">12sp</dimen>
+    <dimen name="h5">13sp</dimen>
+    <dimen name="h6">14sp</dimen>
+    <dimen name="h7">15sp</dimen>
+    <dimen name="h8">16sp</dimen>
+    <dimen name="h9">17sp</dimen>
+    <dimen name="live_btn_size">35dp</dimen>
+    <dimen name="main_content">16sp</dimen>
+    <dimen name="multi_audio_item_faceH">42dp</dimen>
+    <dimen name="multi_audio_item_faceW">42dp</dimen>
+    <dimen name="multi_video_item_faceH">56dp</dimen>
+    <dimen name="multi_video_item_faceW">56dp</dimen>
+    <dimen name="multi_video_name_max_width">95dp</dimen>
+    <dimen name="qav_accept_video_margin_top">240dp</dimen>
+    <dimen name="qav_bottombar_bg_height">255dp</dimen>
+    <dimen name="qav_bottombar_btn_height">46dp</dimen>
+    <dimen name="qav_bottombar_btn_width">60dp</dimen>
+    <dimen name="qav_bottombar_height">170dp</dimen>
+    <dimen name="qav_bottombar_icon_spacing">1dp</dimen>
+    <dimen name="qav_bottombar_left_trans">23dp</dimen>
+    <dimen name="qav_bottombar_margin">32dp</dimen>
+    <dimen name="qav_bottombar_margin_for_ivr">18dp</dimen>
+    <dimen name="qav_bottombar_mid_trans">68dp</dimen>
+    <dimen name="qav_bottombar_normal_margin">16dp</dimen>
+    <dimen name="qav_bottombar_right_trans">5dp</dimen>
+    <dimen name="qav_bottombar_spacing">7dp</dimen>
+    <dimen name="qav_bottomlayer_margin">20dp</dimen>
+    <dimen name="qav_bubbble_icon_ratio">16dp</dimen>
+    <dimen name="qav_bubbble_icon_ratio_ex">8dp</dimen>
+    <dimen name="qav_double_friend_imgW">95dp</dimen>
+    <dimen name="qav_double_video_friend_imgW">50dp</dimen>
+    <dimen name="qav_gaudio_grid_height">300dp</dimen>
+    <dimen name="qav_gaudio_grid_icon_width">50dp</dimen>
+    <dimen name="qav_gaudio_grid_item_width">88dp</dimen>
+    <dimen name="qav_gaudio_grid_margin_members_top">110dp</dimen>
+    <dimen name="qav_gaudio_grid_margin_top_nor">60dp</dimen>
+    <dimen name="qav_gaudio_grid_margin_top_sig">157dp</dimen>
+    <dimen name="qav_gaudio_grid_margin_top_waiting">40dp</dimen>
+    <dimen name="qav_gaudio_grid_net_tip_margin_top_one_line">210dp</dimen>
+    <dimen name="qav_gaudio_grid_net_tip_margin_top_two_line">300dp</dimen>
+    <dimen name="qav_gaudio_indicate_margin_top_one_line">100dp</dimen>
+    <dimen name="qav_gaudio_indicate_margin_top_two_line">190dp</dimen>
+    <dimen name="qav_gaudio_indicator_top">250dp</dimen>
+    <dimen name="qav_gaudio_member_name_margin_top">4dp</dimen>
+    <dimen name="qav_gaudio_member_name_width">50dp</dimen>
+    <dimen name="qav_gaudio_members_container_one_line">90dp</dimen>
+    <dimen name="qav_gaudio_members_container_two_line">180dp</dimen>
+    <dimen name="qav_gaudio_members_holder_height_one_line">110dp</dimen>
+    <dimen name="qav_gaudio_members_holder_height_two_line">250dp</dimen>
+    <dimen name="qav_gaudio_members_holder_margin_top_large">80dp</dimen>
+    <dimen name="qav_gaudio_members_holder_margin_top_small">24dp</dimen>
+    <dimen name="qav_gaudio_msg_text_width">95dp</dimen>
+    <dimen name="qav_gaudio_speaking_icon_margin_left">6dp</dimen>
+    <dimen name="qav_gaudio_speaking_icon_margin_top">5dp</dimen>
+    <dimen name="qav_gaudio_speaking_icon_width">10dp</dimen>
+    <dimen name="qav_grid_view_item_width_audio">75dp</dimen>
+    <dimen name="qav_grid_view_item_width_video">64dp</dimen>
+    <dimen name="qav_info_margintop">160dp</dimen>
+    <dimen name="qav_info_margintop_ldpi">70dp</dimen>
+    <dimen name="qav_info_margintop_video">60dp</dimen>
+    <dimen name="qav_info_name_margintop">5dp</dimen>
+    <dimen name="qav_invite_btn_right_margin">60dp</dimen>
+    <dimen name="qav_invite_btn_trans">40dp</dimen>
+    <dimen name="qav_lock_bg_w">266dp</dimen>
+    <dimen name="qav_lock_left_margin">6dp</dimen>
+    <dimen name="qav_lock_margin">47dp</dimen>
+    <dimen name="qav_lock_right_edge">260dp</dimen>
+    <dimen name="qav_msg_name_max_width">100dp</dimen>
+    <dimen name="qav_msg_text_max_width">226dp</dimen>
+    <dimen name="qav_multi_video_friend_item_width">60dp</dimen>
+    <dimen name="qav_net_tip_margin_top">350dp</dimen>
+    <dimen name="qav_net_tip_margin_top_small">210dp</dimen>
+    <dimen name="qav_notification_icon">64dp</dimen>
+    <dimen name="qav_ring_margintop">130dp</dimen>
+    <dimen name="qav_setting_table_row_height">50dp</dimen>
+    <dimen name="qav_smartbar_height">48dp</dimen>
+    <dimen name="qav_tips_margintop">300dp</dimen>
+    <dimen name="qav_tips_margintop_ldpi">240dp</dimen>
+    <dimen name="qav_title_bar_height">50dp</dimen>
+    <dimen name="qav_title_margin_top">3dp</dimen>
+    <dimen name="qav_titlebar_height">25dp</dimen>
+    <dimen name="qav_waiting_text_max_width">128dp</dimen>
+    <dimen name="qav_waiting_tip_margin_top">40dp</dimen>
+    <dimen name="qav_waiting_tip_margin_top_one_line">54dp</dimen>
+    <dimen name="qav_waiting_tip_margin_top_small">50dp</dimen>
+    <dimen name="qav_waiting_tip_margin_top_two_line">113dp</dimen>
+    <dimen name="repeat_slider_width">26dp</dimen>
+    <dimen name="small_area_height">110dp</dimen>
+    <dimen name="small_area_margin_bottom">110dp</dimen>
+    <dimen name="small_area_margin_top">130dp</dimen>
+    <dimen name="small_area_marginbetween">10dp</dimen>
+    <dimen name="small_area_marginright">10dp</dimen>
+    <dimen name="small_area_width">60dp</dimen>
+    <dimen name="sub_content">14sp</dimen>
+    <dimen name="subtitle">17sp</dimen>
+    <dimen name="t1">36sp</dimen>
+    <dimen name="t2">34sp</dimen>
+    <dimen name="t3">32sp</dimen>
+    <dimen name="t4">28sp</dimen>
+    <dimen name="t5">24sp</dimen>
+    <dimen name="text_size">16sp</dimen>
+    <dimen name="title">18sp</dimen>
+    <dimen name="titlebar">54dp</dimen>
+    <dimen name="toolbar_margin">15dp</dimen>
+    <dimen name="trivial_content">12sp</dimen>
+    <dimen name="ugc_aspect_divider">18dp</dimen>
+    <dimen name="ugc_aspect_width">50dp</dimen>
+    <dimen name="ugc_cut_margin">10dp</dimen>
+    <dimen name="ugc_item_thumb_height">60dp</dimen>
+    <dimen name="ugc_progress_cursor">2dp</dimen>
+    <dimen name="ugc_progress_divider">1dp</dimen>
+    <dimen name="ugc_progress_min_pos">2dp</dimen>
+    <dimen name="video_bottom_toolbar_margin">10dp</dimen>
+    <dimen name="video_lock_margin">-15dp</dimen>
+    <dimen name="video_msgbox_offset">3dp</dimen>
+    <dimen name="video_msgbox_offsetX">23dp</dimen>
+    <dimen name="video_msgbox_offsetY">3dp</dimen>
+    <dimen name="video_progress_height">50dp</dimen>
+    <dimen name="video_small_mute_margin">5dp</dimen>
+    <dimen name="video_small_video_margin">1.5dp</dimen>
+    <dimen name="video_small_view_height">160dp</dimen>
+    <dimen name="video_small_view_offsetX">10dp</dimen>
+    <dimen name="video_small_view_offsetY">10dp</dimen>
+    <dimen name="video_small_view_width">120dp</dimen>
+    <dimen name="video_smallview_move_thresholdX">30dp</dimen>
+    <dimen name="video_smallview_move_thresholdY">40dp</dimen>
+    <dimen name="video_thumbnail_width">50dp</dimen>
+    <dimen name="video_title_default_width">200dp</dimen>
+    <dimen name="video_top_toolbar_margin">45dp</dimen>
+    <item name="mixrecord_playerview_placeholder" type="id"/>
+    <item name="mixrecord_playerviews" type="id"/>
+    <integer name="anim_duration">1000</integer>
+    <integer name="heart_anim_bezier_factor">6</integer>
+    <string name="about_tip1">小视频是由腾讯视频云团队提供的一款原型级别的 APP，致力于以 DEMO 的形式向您展示腾讯视频云在短视频领域的各项能力。比如如何利用视频云 SDK 进行短视频的分段录制和编辑，如何利用对象存储（COS）服务实现视频上传和发布，如何使用点播（VOD）服务实现视频的分发。</string>
+    <string name="activity_login_login">登录</string>
+    <string name="activity_login_password">密码</string>
+    <string name="activity_login_register">注册新用户</string>
+    <string name="activity_login_username">用户名</string>
+    <string name="activity_register_password">密码(8~16位个字符)</string>
+    <string name="activity_register_password_verify">确认密码</string>
+    <string name="activity_register_register">注册</string>
+    <string name="activity_register_register_new_user">注册新用户</string>
+    <string name="activity_register_username">用户名(4~24位字母、数字、下划线)</string>
+    <string name="activity_video_record_click_start">单击拍</string>
+    <string name="activity_video_record_long_touch">长按拍</string>
+    <string name="activity_video_record_sound_effect">音效</string>
+    <string name="activity_video_record_take_photo">拍照</string>
+    <string name="activity_video_record_take_photo_fail">拍照失败</string>
+    <string name="activity_video_record_take_photo_success">拍照成功，已存到系统相册</string>
+    <string name="activity_video_record_timer">倒计时</string>
+    <string name="add">新增</string>
+    <string name="add_paster_adapter_paster">贴纸</string>
+    <string name="app_about">关于</string>
+    <string name="app_name">小视频</string>
+    <string name="aspect">屏比</string>
+    <string name="audio_ctrl_accompaniment">伴奏</string>
+    <string name="audio_ctrl_finish">结束</string>
+    <string name="audio_ctrl_voice">人声</string>
+    <string name="audio_ctrl_vol">音量调节</string>
+    <string name="beauty">美颜</string>
+    <string name="bgm_select_activity_download_failed">下载失败</string>
+    <string name="bgm_select_activity_downloading">下载中...</string>
+    <string name="bgm_start_position">当前从%1$s开始</string>
+    <string name="bgm_volume">背景音乐音量</string>
+    <string name="btn_back">返回</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_confirm">确认</string>
+    <string name="btn_login_out">退出登录</string>
+    <string name="btn_ok">确定</string>
+    <string name="bublle_style">气泡样式</string>
+    <string name="cancel_joining">取消拼接视频</string>
+    <string name="cancel_publish_msg">视频即将上传完成，真的要取消上传吗？</string>
+    <string name="cancel_publish_title">取消上传</string>
+    <string name="cancel_record">取消拍摄</string>
+    <string name="chorus_title">合唱</string>
+    <string name="complete">完成</string>
+    <string name="confirm_cancel_edit_content">确认放弃当前编辑的内容？</string>
+    <string name="confirm_cancel_record_content">确认放弃当前拍摄的内容？</string>
+    <string name="confirm_delete">确定清除</string>
+    <string name="delete_bgm_or_not">确定清除已添加的背景音乐？</string>
+    <string name="dialog_title_confirm">确认</string>
+    <string name="dialog_title_error">错误</string>
+    <string name="dialog_ugc_tip_already_known">知道了</string>
+    <string name="download">下载</string>
+    <string name="download_sdk"><a href="https://cloud.tencent.com/document/product/584/9366">下载 SDK</a></string>
+    <string name="downloaded">已下载</string>
+    <string name="downloading">下载中</string>
+    <string name="dynamic_paster">动态贴纸</string>
+    <string name="filter">滤镜</string>
+    <string name="float_window_not_allow">悬浮窗权限未开启 请在应用-权限中打开悬浮窗权限</string>
+    <string name="follow_and_send_msg_to_public_number">关注公众号“腾讯云视频”\n给公众号发送“小视频”</string>
+    <string name="follow_public_number">关注公众号“腾讯云视频”</string>
+    <string name="follow_shot">合拍</string>
+    <string name="fragment_bgm_cancel">取消</string>
+    <string name="fragment_confirm_cancel">取消</string>
+    <string name="fragment_confirm_confirm">确定</string>
+    <string name="fragment_confirm_input_tip">请输入内容</string>
+    <string name="fragment_confirm_ok">确定</string>
+    <string name="fragment_input_word_cancel">取消</string>
+    <string name="fragment_input_word_input_tip">请输入内容</string>
+    <string name="fragment_input_word_ok">确定</string>
+    <string name="fragment_user_info_please_lonin">请先登录</string>
+    <string name="fragment_videolist_no_content">暂无内容噢~</string>
+    <string name="get_technical_support">获取技术支持服务</string>
+    <string name="give_up">放弃</string>
+    <string name="language_setting_activity_follow_system">跟随系统（重启生效）</string>
+    <string name="language_setting_activity_language">语言</string>
+    <string name="language_setting_activity_save">保存</string>
+    <string name="layout_joiner_progress_video_is_generating">视频生成中...</string>
+    <string name="layout_sound_effect_beast">困兽</string>
+    <string name="layout_sound_effect_deep">低沉</string>
+    <string name="layout_sound_effect_fat_boy">死肥仔</string>
+    <string name="layout_sound_effect_foreigner">外国人</string>
+    <string name="layout_sound_effect_hall">会堂</string>
+    <string name="layout_sound_effect_heavy_current">强电流</string>
+    <string name="layout_sound_effect_heavy_machine">重机械</string>
+    <string name="layout_sound_effect_heavy_metal">重金属</string>
+    <string name="layout_sound_effect_ktv">KTV</string>
+    <string name="layout_sound_effect_lolita">萝莉</string>
+    <string name="layout_sound_effect_loud">洪亮</string>
+    <string name="layout_sound_effect_magnetic">磁性</string>
+    <string name="layout_sound_effect_original_sound">原声</string>
+    <string name="layout_sound_effect_original_sound2">原声</string>
+    <string name="layout_sound_effect_room">房间</string>
+    <string name="layout_sound_effect_uncle">大叔</string>
+    <string name="layout_sound_effect_vacant">空灵</string>
+    <string name="layout_sound_effect_wild_kid">熊孩子</string>
+    <string name="mic_volume">录音音量</string>
+    <string name="motion">动作</string>
+    <string name="motion_dark_dream">暗黑幻境</string>
+    <string name="motion_ghost">幽灵</string>
+    <string name="motion_ghost_shadow">鬼影</string>
+    <string name="motion_illusion">幻觉</string>
+    <string name="motion_lightning">闪电</string>
+    <string name="motion_mirror">镜像</string>
+    <string name="motion_phantom_shadow">幻影</string>
+    <string name="motion_rock_light">动感光波</string>
+    <string name="motion_soul_out">灵魂出窍</string>
+    <string name="motion_split">视频分裂</string>
+    <string name="motion_win_shadow">百叶窗</string>
+    <string name="music">音乐</string>
+    <string name="music_empty">空空如也</string>
+    <string name="music_loading">正在加载本地音乐...</string>
+    <string name="next_step">下一步</string>
+    <string name="no_content">暂无内容哦~</string>
+    <string name="none">无</string>
+    <string name="paster">贴纸</string>
+    <string name="picture_choose">选择图片</string>
+    <string name="picture_editer_title">图片</string>
+    <string name="picture_join_fade_in_and_fade_out">淡入淡出</string>
+    <string name="picture_join_left_right">左右</string>
+    <string name="picture_join_rotate">旋转</string>
+    <string name="picture_join_up_down">上下</string>
+    <string name="picture_join_zoom_in">放大</string>
+    <string name="picture_join_zoom_out">缩小</string>
+    <string name="product_introduction"><a href="https://cloud.tencent.com/product/UGSV">产品介绍</a></string>
+    <string name="publish_success">发布成功</string>
+    <string name="record_part_exist">你有未录制完成的视频，是否继续？</string>
+    <string name="repeate">反复</string>
+    <string name="reverse">倒放</string>
+    <string name="revert">撤销</string>
+    <string name="save_success">保存完成</string>
+    <string name="select_bgm">选择背景音乐</string>
+    <string name="send_msg_to_public_number">给公众号发送“小视频”</string>
+    <string name="setting_activity_language">语言</string>
+    <string name="setting_activity_setting">设置</string>
+    <string name="slow_motion">慢动作</string>
+    <string name="sound_effect_pannel_change_voice">变声</string>
+    <string name="sound_effect_pannel_record_reverb">混响</string>
+    <string name="speed">速度</string>
+    <string name="speed_fast">快速</string>
+    <string name="speed_normal">标准</string>
+    <string name="speed_slow">慢速</string>
+    <string name="speed_very_fast">极快</string>
+    <string name="speed_very_slow">极慢</string>
+    <string name="start_record_not_finish">还有录制的任务没有结束</string>
+    <string name="start_record_not_init">别着急，画面还没出来</string>
+    <string name="start_record_path_empty">传入的视频路径为空</string>
+    <string name="start_record_version_below">版本太低</string>
+    <string name="state_pause">暂停</string>
+    <string name="static_paster">静态贴纸</string>
+    <string name="subtitle">字幕</string>
+    <string name="tc_bgm_download_progress_download_failed">下载失败</string>
+    <string name="tc_bgm_download_progress_no_enough_storage_space">存储空间不足</string>
+    <string name="tc_bgm_setting_fragment_background_sound_only_supports_mp3_or_m4a_format">背景音仅支持MP3或M4A格式</string>
+    <string name="tc_bgm_setting_fragment_video_edit_failed">视频编辑失败</string>
+    <string name="tc_bubble_fragment_double_click_to_edit_text">双击修改文字</string>
+    <string name="tc_constants_error_msg_net_disconnecte">网络异常，请检查网络</string>
+    <string name="tc_cutter_fragment_left">左侧：</string>
+    <string name="tc_cutter_fragment_right">右侧：</string>
+    <string name="tc_http_engine_get_error_message_connect_server_failed">连接服务器失败</string>
+    <string name="tc_http_engine_get_error_message_network_anomaly">网络异常,请稍后再试</string>
+    <string name="tc_http_engine_get_error_message_no_network_connection">无网络连接</string>
+    <string name="tc_http_engine_handle_server_error_connect_server_fail">连接服务器失败</string>
+    <string name="tc_http_engine_handle_server_error_network_anomaly">网络异常,请稍后再试</string>
+    <string name="tc_live_list_fragment_refresh_list_failed">刷新列表失败</string>
+    <string name="tc_login_activity_auto_login_failed">自动登录失败</string>
+    <string name="tc_login_activity_login_successfully">登录成功</string>
+    <string name="tc_login_activity_no_network_connection">当前无网络连接</string>
+    <string name="tc_login_activity_password_length_tip">密码长度应为8-16位</string>
+    <string name="tc_login_activity_username_does_not_meet_specifications">用户名不规范</string>
+    <string name="tc_picture_choose_activity_got_it">知道了</string>
+    <string name="tc_picture_choose_activity_please_select_multiple_images">请选择多个图片</string>
+    <string name="tc_picture_choose_activity_the_selected_file_does_not_exist">选择的文件不存在</string>
+    <string name="tc_picture_join_activity_toast_cancel_video_generation">取消视频生成</string>
+    <string name="tc_picture_join_activity_toast_picture_is_abnormal_and_finish_editing">图片异常，结束编辑</string>
+    <string name="tc_register_activity_attempt_normal_regist_no_network_connection">当前无网络连接</string>
+    <string name="tc_register_activity_attempt_normal_regist_password_length_error">密码长度应为8-16位</string>
+    <string name="tc_register_activity_attempt_normal_regist_password_verify_error">两次输入密码不一致</string>
+    <string name="tc_register_activity_attempt_normal_regist_username_does_not_meet_specifications">用户名不规范</string>
+    <string name="tc_register_activity_register_callback_auto_login_failed">自动登录失败</string>
+    <string name="tc_register_activity_register_callback_auto_login_successfully">自动登录成功</string>
+    <string name="tc_register_activity_register_callback_password_format_error">密码格式错误</string>
+    <string name="tc_register_activity_register_callback_register_failed">注册失败:</string>
+    <string name="tc_register_activity_register_callback_register_successfully">注册成功</string>
+    <string name="tc_register_activity_register_callback_username_already_exists">用户名已存在</string>
+    <string name="tc_register_activity_register_callback_username_format_error">用户名格式错误</string>
+    <string name="tc_static_filter_fragment_Japanese">日系</string>
+    <string name="tc_static_filter_fragment_beautiful">唯美</string>
+    <string name="tc_static_filter_fragment_blues">蓝调</string>
+    <string name="tc_static_filter_fragment_cheery">樱红</string>
+    <string name="tc_static_filter_fragment_cloud">云裳</string>
+    <string name="tc_static_filter_fragment_cool">清凉</string>
+    <string name="tc_static_filter_fragment_fragrance">香氛</string>
+    <string name="tc_static_filter_fragment_fresh">清新</string>
+    <string name="tc_static_filter_fragment_orchid">白兰</string>
+    <string name="tc_static_filter_fragment_original">原图</string>
+    <string name="tc_static_filter_fragment_pink">粉嫩</string>
+    <string name="tc_static_filter_fragment_pure">纯真</string>
+    <string name="tc_static_filter_fragment_reminiscence">怀旧</string>
+    <string name="tc_static_filter_fragment_romantic">浪漫</string>
+    <string name="tc_static_filter_fragment_standard">标准</string>
+    <string name="tc_static_filter_fragment_super">超脱</string>
+    <string name="tc_static_filter_fragment_vitality">元气</string>
+    <string name="tc_time_fragment_video_preprocessing">视频预处理中...</string>
+    <string name="tc_touch_seekbar_high">高</string>
+    <string name="tc_touch_seekbar_low">低</string>
+    <string name="tc_touch_seekbar_mid">中</string>
+    <string name="tc_ugc_video_list_adapter_day_ago">天前</string>
+    <string name="tc_ugc_video_list_adapter_days_ago">天前</string>
+    <string name="tc_ugc_video_list_adapter_hour_ago">小时前</string>
+    <string name="tc_ugc_video_list_adapter_hours_ago">小时前</string>
+    <string name="tc_ugc_video_list_adapter_just_now">刚刚</string>
+    <string name="tc_ugc_video_list_adapter_min_ago">分钟前</string>
+    <string name="tc_ugc_video_list_adapter_mins_ago">分钟前</string>
+    <string name="tc_ugc_video_list_adapter_video_state_in_audit">审核中</string>
+    <string name="tc_ugc_video_list_adapter_video_state_normal">已审核</string>
+    <string name="tc_ugc_video_list_adapter_video_state_pornographic">涉黄</string>
+    <string name="tc_user_mgr_user_does_not_exist">用户名不存在</string>
+    <string name="tc_user_mgr_wrong_password">密码错误</string>
+    <string name="tc_utils_check_float_window_permission_no">不，谢谢</string>
+    <string name="tc_utils_check_float_window_permission_yes">开启</string>
+    <string name="tc_video_choose_activity_contains_corrupted_video_files">包含已经损坏的视频文件</string>
+    <string name="tc_video_choose_activity_got_it">知道了</string>
+    <string name="tc_video_choose_activity_the_selected_file_does_not_exist">选择的文件不存在</string>
+    <string name="tc_video_cutter_activity_init_work_loading_progress_video_preprocessing">视频预处理中...</string>
+    <string name="tc_video_cutter_activity_load_video_success_already_picked">已选取</string>
+    <string name="tc_video_cutter_activity_oncreate_an_unknown_error_occurred_the_path_cannot_be_empty">发生未知错误,路径不能为空</string>
+    <string name="tc_video_cutter_activity_video_main_handler_edit_failed">编辑失败</string>
+    <string name="tc_video_editer_activity_cancel_video_generation">取消视频生成</string>
+    <string name="tc_video_editer_activity_oncreate_status_is_abnormal_finish_editing">状态异常，结束编辑</string>
+    <string name="tc_video_editer_activity_show_publish_dialog_publish">发布</string>
+    <string name="tc_video_editer_activity_show_publish_dialog_save">保存</string>
+    <string name="tc_video_effect_activity_status_is_abnormal_finish_editing">状态异常，结束编辑</string>
+    <string name="tc_video_preprocess_activity_an_unknown_error_occurred_the_path_cannot_be_empty">发生未知错误,路径不能为空</string>
+    <string name="tc_video_preprocess_activity_cancel_preprocessing">取消预处理</string>
+    <string name="tc_video_preprocess_activity_does_not_support_android_version_below_4.3">暂不支持Android 4.3以下的系统</string>
+    <string name="tc_video_preprocess_activity_edit_failed">编辑失败</string>
+    <string name="tc_video_preprocess_activity_video_preprocessing">视频预处理中...</string>
+    <string name="tc_video_publisher_activity_is_uploading">正在上传</string>
+    <string name="tc_video_publisher_activity_network_connection_is_disconnected_video_upload_failed">网络连接断开，视频上传失败</string>
+    <string name="tc_video_publisher_activity_no_network_connection">无网络连接</string>
+    <string name="tc_video_record_activity_on_join_complete_synthesis_failed">合成失败</string>
+    <string name="tc_video_record_activity_on_join_progress_synthesizing">正在合成</string>
+    <string name="tc_video_record_activity_on_record_complete_fail_tip">录制失败，原因：</string>
+    <string name="tc_video_record_activity_on_record_complete_synthesizing">正在合成...</string>
+    <string name="tc_video_record_activity_on_record_event_evt_camera_cannot_use">摄像头打开失败，请检查权限</string>
+    <string name="tc_video_record_activity_on_record_event_evt_mic_cannot_use">麦克风打开失败，请检查权限</string>
+    <string name="tc_video_record_activity_on_request_permissions_result_failed_to_get_permission">获取权限失败</string>
+    <string name="tc_video_record_activity_start_record_record_failed_tip">录制失败，错误码：</string>
+    <string name="tc_video_record_activity_start_record_start_record_err_api_is_lower_than_18">版本小于18</string>
+    <string name="tc_video_record_activity_start_record_start_record_err_is_in_recording">存在未完成的任务</string>
+    <string name="tc_video_record_activity_start_record_start_record_err_licence_verification_failed">licence校验失败</string>
+    <string name="tc_video_record_activity_start_record_start_record_err_not_init">还未初始化结束</string>
+    <string name="tc_video_record_activity_start_record_start_record_err_video_path_is_empty">视频文件路径为空</string>
+    <string name="tc_video_record_activity_start_record_start_record_ok">开始录制成功</string>
+    <string name="tc_video_repeat_view_tip1">裁剪区间 左侧 : %1$s， 右侧 : %1$s</string>
+    <string name="tc_video_repeat_view_tip2">重复时间点 左侧 : %1$s， 右侧 : %1$s</string>
+    <string name="tc_vod_player_activity_download_video_download_failed">下载失败</string>
+    <string name="tc_vod_player_activity_download_video_is_downloading">正在下载...</string>
+    <string name="tc_word_input_dialog_please_enter_subtitles">请输入字幕</string>
+    <string name="technical_support">如何获取技术支持服务？</string>
+    <string name="text_color">文字颜色</string>
+    <string name="tips">提示</string>
+    <string name="triple_replace_file">选视频</string>
+    <string name="triple_title">三屏合拍</string>
+    <string name="triple_volume">音量</string>
+    <string name="ugckit_does_not_support_android_version_below_4_3">暂不支持Android 4.3以下的系统</string>
+    <string name="unit_second">秒</string>
+    <string name="use">使用</string>
+    <string name="user_info_fragment_setting">设置</string>
+    <string name="video_choose">选择视频</string>
+    <string name="video_cutting">视频裁剪中...</string>
+    <string name="video_edit_segment">设置想要截取的片段</string>
+    <string name="video_editer_title">编辑</string>
+    <string name="video_joining">视频拼接中...</string>
+    <string name="video_long_drag">长按拖拽可调整视频顺序</string>
+    <string name="video_material_download_progress_download_failed">下载失败</string>
+    <string name="video_material_download_progress_material_unzip_failed">素材解压失败</string>
+    <string name="video_material_download_progress_no_enough_storage_space">存储空间不足</string>
+    <string name="video_not_review">视频未审核</string>
+    <string name="video_porn">视频涉黄</string>
+    <string name="video_record_title">拍摄</string>
+    <string name="wrong_click">点错了</string>
+    <style name="ActionSheetDialogStyle" parent="android:Theme.Dialog">
+
+        <!-- 背景透明 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <!-- 浮于Activity之上 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 边框 -->
+        <item name="android:windowFrame">@null</item>
+        <!-- Dialog以外的区域模糊效果 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/colorActivityBackground</item>
+        <item name="android:listDivider">@drawable/shape_list_divider</item>
+    </style>
+    <style name="BaseWhiteTransparentTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="colorControlNormal">@color/colorTransparentGray</item>
+        <item name="android:textColorHint">@color/colorTransparentGray</item>
+        <item name="colorControlActivated">@color/colorPrimary</item>
+        <item name="colorControlHighlight">@color/colorPrimary</item>
+        <item name="android:windowBackground">@color/colorDarkTransparentGray</item>
+    </style>
+    <style name="BasicStyle" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="titleColor">@color/colorTextWhite</item>
+        <item name="titleTextSize">@dimen/title</item>
+        <item name="backIcon">@drawable/btn_back_no_shaddow</item>
+        <item name="nextIcon">@drawable/drawable_ugc_red_next</item>
+        <item name="progressColor">@color/colorRed2</item>
+        <item name="sliderColor">@color/colorRed2</item>
+        <item name="ugckitColorPrimary">@color/colorRed2</item>
+    </style>
+    <style name="BottomDialog" parent="AppTheme">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="ConfirmDialogStyle" parent="NormalDialog">
+    </style>
+    <style name="CustomEditText" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">@color/colorGray4</item>
+        <item name="colorControlActivated">@color/colorAccent</item>
+    </style>
+    <style name="DialogFragmentStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="EditerStyle" parent="BasicStyle">
+        <!-- 裁剪条-->
+        <item name="editerCutViewColor">@color/colorRed2</item>
+        <item name="editerCutSliderLeftIcon">@drawable/ic_progress_left</item>
+        <item name="editerCutSliderRightIcon">@drawable/ic_progress_right</item>
+        <item name="editerRotateIcon">@drawable/icon_rotate_video_view</item>
+        <!-- 播放/暂停icon -->
+        <item name="editerPlayIcon">@drawable/ic_play_normal</item>
+        <item name="editerPauseIcon">@drawable/ic_pause_normal</item>
+        <!-- 进度条-->
+        <item name="editerCurrentProgressIcon">@drawable/ic_player_slider</item>
+        <!-- 编辑菜单-->
+        <item name="editerMenuBgmIcon">@drawable/ic_music_selector</item>
+        <item name="editerMenuMotionIcon">@drawable/ic_motion_selector</item>
+        <item name="editerMenuSpeedIcon">@drawable/ic_time_selector</item>
+        <item name="editerMenuFilterIcon">@drawable/ic_filter_selector</item>
+        <item name="editerMenuPasterIcon">@drawable/ic_paster_selector</item>
+        <item name="editerMenuSubtitleIcon">@drawable/ic_word_selector</item>
+        <!--动态特效-->
+        <item name="editerMotionUndoIcon">@drawable/editor_undo_selector</item>
+        <item name="editerMotionSoulOutIcon">@drawable/motion_soul_out</item>
+        <item name="editerMotionSoulOutCoverColor">@color/soul_out_color_press</item>
+        <item name="editerMotionSplitScreenIcon">@drawable/motion_split_screen</item>
+        <item name="editerMotionSplitScreenCoverColor">@color/screen_split_press</item>
+        <item name="editerMotionDarkDreamIcon">@drawable/motion_dark_dream</item>
+        <item name="editerMotionDarkDreamCoverColor">@color/dark_dream_press</item>
+        <item name="editerMotionGhostIcon">@drawable/motion_ghost</item>
+        <item name="editerMotionGhostCoverColor">@color/ghost_color_press</item>
+        <item name="editerMotionGhostShadowIcon">@drawable/motion_ghost_shaddow</item>
+        <item name="editerMotionGhostShadowCoverColor">@color/ghost_shaddow_color_press</item>
+        <item name="editerMotionIllusionIcon">@drawable/motion_illusion</item>
+        <item name="editerMotionIllusionCoverColor">@color/illusion_color_press</item>
+        <item name="editerMotionLightningIcon">@drawable/motion_lightning</item>
+        <item name="editerMotionLightningCoverColor">@color/lightning_color_press</item>
+        <item name="editerMotionMirrorIcon">@drawable/motion_mirror</item>
+        <item name="editerMotionMirrorCoverColor">@color/mirror_color_press</item>
+        <item name="editerMotionPhantomShadowIcon">@drawable/motion_phantom_shaddow</item>
+        <item name="editerMotionPhantomShadowCoverColor">@color/phantom_shaddow_color_press</item>
+        <item name="editerMotionRockLightIcon">@drawable/motion_rock_light</item>
+        <item name="editerMotionRockLightCoverColor">@color/rock_light_press</item>
+        <item name="editerMotionWinShadowIcon">@drawable/motion_win_shaddow</item>
+        <item name="editerMotionWinShadowCoverColor">@color/win_shaddow_color_press</item>
+
+        <!--速度特效-->
+        <item name="editerTimeEffectNormalIcon">@drawable/motion_time_normal</item>
+        <item name="editerTimeEffectSlowMotionIcon">@drawable/motion_time_slow</item>
+        <item name="editerTimeEffectRepeatIcon">@drawable/motion_time_repeat</item>
+        <item name="editerTimeEffectReverseIcon">@drawable/motion_time_reverse</item>
+
+        <!--静态滤镜-->
+        <item name="editerFilterOriginIcon">@drawable/orginal</item>
+        <item name="editerFilterNormalIcon">@drawable/biaozhun</item>
+        <item name="editerFilterYinghongIcon">@drawable/yinghong</item>
+        <item name="editerFilterYunchangIcon">@drawable/yunshang</item>
+        <item name="editerFilterChunzhenIcon">@drawable/chunzhen</item>
+        <item name="editerFilterBailanIcon">@drawable/bailan</item>
+        <item name="editerFilterYuanqiIcon">@drawable/yuanqi</item>
+        <item name="editerFilterChaotuoIcon">@drawable/chaotuo</item>
+        <item name="editerFilterXiangfenIcon">@drawable/xiangfen</item>
+        <item name="editerFilterLangmanIcon">@drawable/langman</item>
+        <item name="editerFilterQingxinIcon">@drawable/qingxin</item>
+        <item name="editerFilterWeimeiIcon">@drawable/weimei</item>
+        <item name="editerFilterFennenIcon">@drawable/fennen</item>
+        <item name="editerFilterHuaijiuIcon">@drawable/huaijiu</item>
+        <item name="editerFilterLandiaoIcon">@drawable/landiao</item>
+        <item name="editerFilterQingliangIcon">@drawable/qingliang</item>
+        <item name="editerFilterRixiIcon">@drawable/rixi</item>
+
+        <!-- 贴纸 -->
+        <item name="editerPasterDelIcon">@drawable/ic_word_del_normal</item>
+        <!-- 气泡字幕 -->
+        <item name="editerSubtitleDelIcon">@drawable/ic_word_del_normal</item>
+
+        <!-- 特效确认按钮-->
+        <item name="editerConfirmIcon">@drawable/ic_edit_effect_confirm_selector</item>
+    </style>
+    <style name="InputDialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">#00000000</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="colorControlNormal">@color/colorAccent</item>
+        <item name="android:textColorHint">@color/c9</item>
+        <item name="colorControlActivated">@color/colorAccent</item>
+    </style>
+    <style name="LoginTheme" parent="BaseWhiteTransparentTheme">
+
+    </style>
+    <style name="MixRecordStyle" parent="RecordStyle">
+        <item name="countDownIcon">@drawable/btn_timer</item>
+    </style>
+    <style name="NickNameDialog" parent="NormalDialog">
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+    <style name="NormalDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+
+    </style>
+    <style name="NumberProgressBarStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+
+        <item name="progress_max">100</item>
+        <item name="progress_current">0</item>
+
+        <item name="progress_unreached_color">#fff</item>
+        <item name="progress_reached_color">@color/colorRed2</item>
+
+        <item name="progress_text_size">10sp</item>
+        <item name="progress_text_color">@color/colorRed2</item>
+
+        <item name="progress_reached_bar_height">1.5dp</item>
+        <item name="progress_unreached_bar_height">0.75dp</item>
+    </style>
+    <style name="PickerStyle" parent="BasicStyle">
+        <item name="pickerDelIcon">@drawable/ic_picker_close</item>
+        <item name="pickerNextIcon">@drawable/ic_choose_next_selector</item>
+    </style>
+    <style name="PictureTransitionStyle" parent="BasicStyle">
+        <item name="transitionLeftRightIcon">@drawable/btn_left_right</item>
+        <item name="transitionUpDownIcon">@drawable/btn_up_down</item>
+        <item name="transitionEnlargeIcon">@drawable/btn_zoom_in</item>
+        <item name="transitionNarrowIcon">@drawable/btn_zoom_out</item>
+        <item name="transitionRotateIcon">@drawable/btn_rotate</item>
+        <item name="transitionFadeInOutIcon">@drawable/btn_gradient</item>
+    </style>
+    <style name="PlayerAnimation" parent="android:Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/anim_slice_in_right</item>
+        <item name="android:activityCloseExitAnimation">@anim/anim_slice_out_right</item>
+    </style>
+    <style name="PlayerTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowAnimationStyle">@style/PlayerAnimation</item>
+    </style>
+    <style name="RecordActivityTheme" parent="AppTheme">
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:background">@color/transparent</item>
+    </style>
+    <style name="RecordStyle" parent="BasicStyle">
+        <!-- 音乐icon -->
+        <item name="recordMusicIcon">@drawable/ugc_record_music</item>
+        <!-- 屏比icon-->
+        <item name="recordAspect11Icon">@drawable/ic_aspect_11</item>
+        <item name="recordAspect34Icon">@drawable/ic_aspect_34</item>
+        <item name="recordAspect43Icon">@drawable/ic_aspect_43</item>
+        <item name="recordAspect169Icon">@drawable/ic_aspect_169</item>
+        <item name="recordAspect916Icon">@drawable/ic_aspect_916</item>
+        <!-- 美颜icon-->
+        <item name="recordBeautyIcon">@drawable/record_beauty_selector</item>
+        <!-- 音效icon-->
+        <item name="recordAudioEffectIcon">@drawable/record_soundeffect</item>
+        <!-- 回删icon-->
+        <item name="recordDeleteIcon">@drawable/selector_delete_last_part</item>
+        <!-- 闪光灯icon-->
+        <item name="recordTorchOnIcon">@drawable/selector_torch_open</item>
+        <item name="recordTorchOffIcon">@drawable/selector_torch_close</item>
+        <!-- 切换摄像头icon-->
+        <item name="recordSwitchCameraIcon">@drawable/selector_switch_camera</item>
+        <!-- 速度 -->
+        <item name="recordSpeedSlowestBackgroud">@drawable/record_left_bg</item>
+        <item name="recordSpeedSlowBackground">@drawable/record_mid_bg</item>
+        <item name="recordSpeedNormalBackground">@drawable/record_mid_bg</item>
+        <item name="recordSpeedFastBackground">@drawable/record_mid_bg</item>
+        <item name="recordSpeedFastestBackground">@drawable/record_right_bg</item>
+        <!-- 录制Button-->
+        <item name="recordButtonPhotoModeOutterBackground">
+            @color/recordButtonTakePhotoBackgroundColor
+        </item>
+        <item name="recordButtonPhotoModeInnerBackground">@color/colorTextWhite</item>
+        <item name="recordButtonTapModeOutterBackground">
+            @color/recordButtonClickShotBackgroundColor
+        </item>
+        <item name="recordButtonTapModeInnerBackground">@color/recordButtonClickShotInnerColor
+        </item>
+        <item name="recordButtonPressModeOutterBackground">
+            @color/recordButtonTouchShotBackgroundColor
+        </item>
+        <item name="recordButtonPressModeInnerBackground">@color/recordButtonTouchShotInnerColor
+        </item>
+        <!-- 多段录制进度条-->
+        <item name="recordTimelineColor">@color/record_progress</item>
+        <item name="recordTimelineSelectionColor">@color/record_progress_pending</item>
+        <item name="recordTimelineSeperatorColor">@color/white</item>
+        <!-- 美颜面板 -->
+        <item name="beautyPanelColorPrimary">@color/colorRed</item>
+        <item name="beautyPanelSmoothIcon">@drawable/ic_beauty_smooth</item>
+        <item name="beautyPanelNaturalIcon">@drawable/ic_beauty_natural</item>
+        <item name="beautyPanelPituIcon">@drawable/ic_beauty_pitu</item>
+        <item name="beautyPanelWhiteIcon">@drawable/ic_beauty_white</item>
+        <item name="beautyPanelRuddyIcon">@drawable/ic_beauty_ruddy</item>
+        <item name="beautyPanelBigeyeIcon">@drawable/ic_beauty_bigeye</item>
+        <item name="beautyPanelFaceslimIcon">@drawable/ic_beauty_faceslim</item>
+        <item name="beautyPanelFacevIcon">@drawable/ic_beauty_facev</item>
+        <item name="beautyPanelChinIcon">@drawable/ic_beauty_chin</item>
+        <item name="beautyPanelFaceshortIcon">@drawable/ic_beauty_faceshort</item>
+        <item name="beautyPanelNoseslimIcon">@drawable/ic_beauty_noseslim</item>
+        <item name="beautyPanelEyeLightenIcon">@drawable/ic_eye_bright</item>
+        <item name="beautyPanelToothWhiteIcon">@drawable/ic_tooth_white</item>
+        <item name="beautyPanelPounchRemoveIcon">@drawable/ic_pounch_remove</item>
+        <item name="beautyPanelSmileLinesRemoveIcon">@drawable/ic_smilelines</item>
+        <item name="beautyPanelWrinkleIcon">@drawable/ic_wrinkles</item>
+        <item name="beautyPanelForeheadIcon">@drawable/ic_forehead</item>
+        <item name="beautyPanelEyeDistanceIcon">@drawable/ic_eye_distance</item>
+        <item name="beautyPanelEyeAngleIcon">@drawable/ic_eye_angle</item>
+        <item name="beautyPanelMouthShapeIcon">@drawable/ic_mouseshape</item>
+        <item name="beautyPanelNoseWingIcon">@drawable/ic_nose_wing</item>
+        <item name="beautyPanelNosePositionIcon">@drawable/ic_nose_position</item>
+        <item name="beautyPanelMouseWidthIcon">@drawable/ic_mouse_width</item>
+        <item name="beautyPanelFaceShapeIcon">@drawable/ic_faceshape</item>
+
+        <!-- 音效面板 -->
+        <item name="audioEffectDisabled">@drawable/ic_effect_non</item>
+        <item name="audioEffectVoicechangeBadboy">@drawable/ic_voicechange_badboy</item>
+        <item name="audioEffectVoicechangeLoli">@drawable/ic_voicechange_loli</item>
+        <item name="audioEffectVoicechangeUncle">@drawable/ic_voicechange_uncle</item>
+        <item name="audioEffectVoicechangeHeavymechanical">
+            @drawable/ic_voicechange_heavymechanical
+        </item>
+        <item name="audioEffectVoicechangeForeigner">@drawable/ic_voicechange_foreigner</item>
+        <item name="audioEffectVoicechangeBeast">@drawable/ic_voicechange_beast</item>
+        <item name="audioEffectVoicechangeFatty">@drawable/ic_voicechange_deadfathouse
+        </item>
+        <item name="audioEffectVoicechangeElectric">@drawable/ic_voicechange_electric</item>
+        <item name="audioEffectVoicechangeEthereal">@drawable/ic_voicechange_ethereal</item>
+        <item name="audioEffectReverbKTV">@drawable/ic_reverb_ktv</item>
+        <item name="audioEffectReverbRoom">@drawable/ic_reverb_room</item>
+        <item name="audioEffectReverbHall">@drawable/ic_reverb_hall</item>
+        <item name="audioEffectReverbLow">@drawable/ic_reverb_low</item>
+        <item name="audioEffectReverbSonorous">@drawable/ic_reverb_sonorous</item>
+        <item name="audioEffectReverbMagnetic">@drawable/ic_reverb_magnetic</item>
+    </style>
+    <style name="RegisterTheme" parent="BaseWhiteTransparentTheme">
+        <item name="android:windowAnimationStyle">@style/PlayerAnimation</item>
+    </style>
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@drawable/splash_pic</item>
+    </style>
+    <style name="TimelineItemButton">
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:layout_width">32dp</item>
+        <item name="android:layout_height">32dp</item>
+        <item name="android:layout_marginRight">8dp</item>
+        <item name="android:layout_marginLeft">12dp</item>
+    </style>
+    <style name="TimelineItemTitle" parent="TimelineItemButton">
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+    <style name="bottom_dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="dialog_bottom_full" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:scrollHorizontally">true</item>
+    </style>
+    <style name="floag_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="host_info_dlg" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="loading_dialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="report_dlg" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="share_platform_btn">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/transparent</item>
+        <item name="android:textColor">@color/text_gray1</item>
+        <item name="android:layout_marginBottom">25dp</item>
+        <item name="android:layout_marginTop">25dp</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:drawablePadding">5dp</item>
+    </style>
+    <style name="tencent_tls_ui_theme" parent="android:Theme.Holo.Light.NoActionBar">
+    </style>
+    <style name="tencent_tls_ui_transparent">
+        <item name="android:windowBackground">@color/tencent_tls_ui_transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Translucent</item>
+    </style>
+    <style name="video_publish_prompt_text">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/text_gray1</item>
+        <item name="android:layout_marginLeft">15dp</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="video_publish_share_checkbox">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_marginTop">15dp</item>
+    </style>
+    <style name="video_publish_share_layout">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+    <style name="video_publish_share_text">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginBottom">15dp</item>
+    </style>
+</resources>

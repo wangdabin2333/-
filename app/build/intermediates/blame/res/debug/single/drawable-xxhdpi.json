@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_ugc_record_normal.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_ugc_record_normal.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\face.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\face.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_ugc_pic_normal.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_ugc_pic_normal.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_back_no_shaddow.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\btn_back_no_shaddow.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_ugc_record_press.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_ugc_record_press.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_ugc_pic_pressed.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_ugc_pic_pressed.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_choose_press.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_choose_press.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_login_pressed.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\btn_login_pressed.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_record_back_disable.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_record_back_disable.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_user_normal.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_user_normal.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_choose_normal.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_choose_normal.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_home_video_normal.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home_video_normal.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_ugc_next_pressed.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\btn_ugc_next_pressed.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_aspect34.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_aspect34.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_choose_disable.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_choose_disable.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_record_back.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_record_back.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_ugc_next_normal.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\btn_ugc_next_normal.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_followrecord_pressed.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_followrecord_pressed.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\triplescreen.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\triplescreen.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_home_video_selected.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home_video_selected.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\user_info_top_bg.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\user_info_top_bg.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_followrecord_normal.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_followrecord_normal.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_ugc_editer_normal.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_ugc_editer_normal.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_about_logo.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_about_logo.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_aspect34hover.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_aspect34hover.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\publisher_close_normal.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\publisher_close_normal.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ugc_item_time.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ugc_item_time.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_back_shaddowed.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\btn_back_shaddowed.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_ugc_editer_pressed.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_ugc_editer_pressed.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_user_selected.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_user_selected.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\splash_pic.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\splash_pic.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_home_select_pressed.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home_select_pressed.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\login_bg.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\login_bg.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_home_select_normal.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home_select_normal.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\user_info_next.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\user_info_next.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_follow_shot_normal.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\btn_follow_shot_normal.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\list_empty.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\list_empty.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_login_normal.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\btn_login_normal.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\publisher_close_press.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\publisher_close_press.png"
+    },
+    {
+        "merged": "F:\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_follow_shot_press.png",
+        "source": "F:\\Demo\\app\\src\\main\\res\\drawable-xxhdpi\\btn_follow_shot_press.png"
+    }
+]
